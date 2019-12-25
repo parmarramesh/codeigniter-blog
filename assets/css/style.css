@@ -1,0 +1,29 @@
+.mr-15{margin-right: 15px!important;}
+.ml-15{margin-left: 15px!important;}
+.mt-20{margin-top:20px;}
+.push-25{margin: 0 25% 0 25%!important;}
+.pagination strong{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+a.pagination {
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+.text-center{
+	text-align: center;
+}
+.error{
+	color:red;
+}
+.mt-15{margin-top: 15px;}
+.mb-15{margin-bottom: 15px;}
+.fontsize_16{font-size: 16px!important;}
+.ptb-20{padding-top: 20px!important; padding-bottom: 20px!important;}
+
+.m-0{margin: 0px!important;}
+.p-0{padding: 0px!important;}
